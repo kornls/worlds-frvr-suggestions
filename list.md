@@ -9,7 +9,6 @@
 7. ability to change passwords
 8. world maps
 9. can show how many blocks deep you are in LF
-10. blank signs again
 11. command to remove clouds
 12. compasses
 13. command to switch between LF and Unlimited
