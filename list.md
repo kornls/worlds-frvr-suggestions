@@ -34,5 +34,5 @@
 32. Easter Eggs
 33. References to other FRVR games
 34. MicChi Plushie
-
-*If you want your suggestion to be added here, open an issue.*
+<br>
+If you want your suggestion to be added here, [please open an issue](https://github.com/kornrt2018/worlds-frvr-suggestions/issues/new)
