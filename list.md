@@ -35,4 +35,5 @@
 33. References to other FRVR games
 34. MicChi Plushie
 <br>
-If you want your suggestion to be added here, [please open an issue](https://github.com/kornrt2018/worlds-frvr-suggestions/issues/new)
+
+*If you want your suggestion to be added here, please [open an issue](https://github.com/kornrt2018/worlds-frvr-suggestions/issues/new/).*
