@@ -35,5 +35,4 @@
 33. MicChi Plushie
 <br>
 
-*If you want your suggestion to be added here, please [open an issue](https://github.com/kornrt2018/worlds-frvr-suggestions/issues/new/).*<br>
-*Also @jimbly please make these real*
+*If you want your suggestion to be added here, please [open an issue](https://github.com/kornrt2018/worlds-frvr-suggestions/issues/new/).*
