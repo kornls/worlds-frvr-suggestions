@@ -1,4 +1,4 @@
-**Official List of Worlds FRVR Suggestions**
+# Official List of Worlds FRVR Suggestions
 
 1. Dark blue color
 2. blank signs
@@ -24,12 +24,10 @@
 22. Dimensions
 23. World Descriptions
 24. World Tags / Categories
-25A. Hashtags in chat
-25B. `/hashtag [text]` to show the amount of messages with a specific hashtag
+25. Hashtags in chat, with `/hashtag [text]` to show the amount of messages with a specific hashtag
 26. Banning specific nicknames (e.g.`MicChiFRVR`) to prevent impersonation
 27. Going to a random exitway from a waygate
-28A. Waiting room in worlds
-28B. Ability to Allow/Deny users in the waiting room
+28. Waiting room in worlds, with Ability to Allow/Deny users in the waiting room
 29. Collect gems to unlock skin features
 30. Signs from colored wood
 31. A way to see chunk borders
