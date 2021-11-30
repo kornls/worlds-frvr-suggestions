@@ -33,7 +33,11 @@
 31. Easter Eggs
 32. References to other FRVR games
 33. Toucan Skin
-34. MicChi Plushie
+34. Events should be on weekends/Fridays for people in class
+35. Temporary Blocks
+36. Vehicles
+37. Pets
+38. MicChi Plushie
 <br>
 
 *If you want your suggestion to be added here, please [open an issue](https://github.com/kornrt2018/worlds-frvr-suggestions/issues/new/).*
