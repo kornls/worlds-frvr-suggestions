@@ -32,7 +32,8 @@
 30. ~~A way to see chunk borders~~ > `/d showchunks`
 31. Easter Eggs
 32. References to other FRVR games
-33. MicChi Plushie
+33. Toucan Skin
+34. MicChi Plushie
 <br>
 
 *If you want your suggestion to be added here, please [open an issue](https://github.com/kornrt2018/worlds-frvr-suggestions/issues/new/).*
